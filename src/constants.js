@@ -51,18 +51,7 @@ export const SkillsInfo = [
 ];
 
   export const experiences = [
-    {
-      id: 0,
-      img: codtechLogo,
-      role: "JAVA Programmar",
-      company: "CodTech",
-      date: "20 May 2025 - 17 June 2025",
-      desc: "Contributed to innovative projects on JAVA.",
-      skills: [
-        "JAVA",
-        "DSA",
-      ],
-    },
+  
     {
       id: 1,
       img: letsgrowmoreLogo,
@@ -94,7 +83,7 @@ export const SkillsInfo = [
       img: dpsLogo,
       school: "Delhi Public School, GAYA",
       date: "2022",
-      grade: "78%",
+      grade: "76%",
       desc: "I completed my class 12 education from Delhi Public School, GAYA, under the CBSE board, where I studied Physics, Chemistry, and Mathematics (PCM).",
       degree: "CBSE(XII) - Physics, Chemistry, and Mathematics (PCM)",
     },
